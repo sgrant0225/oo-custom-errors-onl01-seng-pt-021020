@@ -3,7 +3,6 @@ class Person
 
   def initialize(name)
     @name = name
-    @partner = partner
   end
 
   def get_married(person)
