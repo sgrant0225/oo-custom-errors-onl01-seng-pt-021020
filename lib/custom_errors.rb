@@ -12,7 +12,7 @@ class Person
 
 end
 
-
+class PartnerError < 
 
 beyonce = Person.new("Beyonce")
 beyonce.get_married("Jay-Z")
